@@ -1,0 +1,15 @@
+elect_FEDformer_random_modes64_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.10493367910385132, mae:0.1938972920179367
+
+elect_FEDformer_random_modes64_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_1  
+mse:0.10562828928232193, mae:0.1977541744709015
+
+elect_FEDformer_random_modes64_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_2  
+mse:0.10593555122613907, mae:0.19697000086307526
+
+elect_FEDformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.12723958492279053, mae:0.21907056868076324
+
+elect_FEDformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.12723958492279053, mae:0.21907056868076324
+
